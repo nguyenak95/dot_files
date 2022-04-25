@@ -23,3 +23,5 @@ set.cursorline = true
 
 set.hidden = true
 set.statusline = '3'
+
+vim.cmd('colorscheme tokyonight')
